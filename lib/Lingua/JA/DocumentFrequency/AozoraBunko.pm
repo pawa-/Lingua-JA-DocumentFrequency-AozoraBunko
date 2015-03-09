@@ -9,7 +9,7 @@ use Exporter qw/import/;
 use Storable ();
 use File::ShareDir ();
 
-our $VERSION   = '0.00_01';
+our $VERSION   = '0.01';
 our @EXPORT    = qw(aozora_df);
 our @EXPORT_OK = qw(number_of_documents df);
 
